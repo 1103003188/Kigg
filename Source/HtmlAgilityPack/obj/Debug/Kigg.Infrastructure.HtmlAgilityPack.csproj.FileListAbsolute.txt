@@ -1,0 +1,16 @@
+C:\C#.NET\Kigg\sourceCode\kigg\Source\HtmlAgilityPack\bin\Debug\Kigg.Infrastructure.HtmlAgilityPack.dll
+C:\C#.NET\Kigg\sourceCode\kigg\Source\HtmlAgilityPack\bin\Debug\Kigg.Infrastructure.HtmlAgilityPack.pdb
+C:\C#.NET\Kigg\sourceCode\kigg\Source\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\C#.NET\Kigg\sourceCode\kigg\Source\HtmlAgilityPack\bin\Debug\Kigg.Core.dll
+C:\C#.NET\Kigg\sourceCode\kigg\Source\HtmlAgilityPack\bin\Debug\Kigg.Core.pdb
+C:\C#.NET\Kigg\sourceCode\kigg\Source\HtmlAgilityPack\obj\Debug\Kigg.Infrastructure.HtmlAgilityPack.csprojResolveAssemblyReference.cache
+C:\C#.NET\Kigg\sourceCode\kigg\Source\HtmlAgilityPack\obj\Debug\Kigg.Infrastructure.HtmlAgilityPack.dll
+C:\C#.NET\Kigg\sourceCode\kigg\Source\HtmlAgilityPack\obj\Debug\Kigg.Infrastructure.HtmlAgilityPack.pdb
+C:\Kigg\Kigg\Source\HtmlAgilityPack\bin\Debug\Kigg.Infrastructure.HtmlAgilityPack.dll
+C:\Kigg\Kigg\Source\HtmlAgilityPack\bin\Debug\Kigg.Infrastructure.HtmlAgilityPack.pdb
+C:\Kigg\Kigg\Source\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\Kigg\Kigg\Source\HtmlAgilityPack\bin\Debug\Kigg.Core.dll
+C:\Kigg\Kigg\Source\HtmlAgilityPack\bin\Debug\Kigg.Core.pdb
+C:\Kigg\Kigg\Source\HtmlAgilityPack\obj\Debug\Kigg.Infrastructure.HtmlAgilityPack.csprojResolveAssemblyReference.cache
+C:\Kigg\Kigg\Source\HtmlAgilityPack\obj\Debug\Kigg.Infrastructure.HtmlAgilityPack.dll
+C:\Kigg\Kigg\Source\HtmlAgilityPack\obj\Debug\Kigg.Infrastructure.HtmlAgilityPack.pdb

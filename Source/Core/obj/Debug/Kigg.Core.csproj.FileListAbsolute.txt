@@ -1,0 +1,9 @@
+C:\C#.NET\Kigg\sourceCode\kigg\Source\Core\bin\Debug\Kigg.Core.dll
+C:\C#.NET\Kigg\sourceCode\kigg\Source\Core\bin\Debug\Kigg.Core.pdb
+C:\C#.NET\Kigg\sourceCode\kigg\Source\Core\obj\Debug\Kigg.Core.dll
+C:\C#.NET\Kigg\sourceCode\kigg\Source\Core\obj\Debug\Kigg.Core.pdb
+C:\Kigg\Kigg\Source\Core\bin\Debug\Kigg.Core.dll
+C:\Kigg\Kigg\Source\Core\bin\Debug\Kigg.Core.pdb
+C:\Kigg\Kigg\Source\Core\obj\Debug\Kigg.Core.csprojResolveAssemblyReference.cache
+C:\Kigg\Kigg\Source\Core\obj\Debug\Kigg.Core.dll
+C:\Kigg\Kigg\Source\Core\obj\Debug\Kigg.Core.pdb
