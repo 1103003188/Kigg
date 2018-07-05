@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kigg.Infrastructure.EF", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kigg.DataServices", "DataServices\Kigg.DataServices.csproj", "{6370DAF2-7999-4DF2-8A7F-0EAF1A12D962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kigg.WebApp", "Kigg.WebApp\Kigg.WebApp.csproj", "{23EEC6EE-A6FB-4077-ACDB-1DD8C197F936}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kigg.Web", "Kigg.WebApp\Kigg.Web.csproj", "{23EEC6EE-A6FB-4077-ACDB-1DD8C197F936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -122,7 +122,6 @@ C:\Kigg\Kigg\Source\Kigg.WebApp\bin\roslyn\System.Reflection.Metadata.dll
 C:\Kigg\Kigg\Source\Kigg.WebApp\bin\roslyn\vbc.exe
 C:\Kigg\Kigg\Source\Kigg.WebApp\bin\roslyn\VBCSCompiler.exe
 C:\Kigg\Kigg\Source\Kigg.WebApp\bin\roslyn\VBCSCompiler.exe.config
-C:\Kigg\Kigg\Source\Kigg.WebApp\bin\Kigg.WebApp.dll.config
 C:\Kigg\Kigg\Source\Kigg.WebApp\bin\Kigg.WebApp.dll
 C:\Kigg\Kigg\Source\Kigg.WebApp\bin\Kigg.WebApp.pdb
 C:\Kigg\Kigg\Source\Kigg.WebApp\bin\Antlr3.Runtime.dll
@@ -220,3 +219,4 @@ C:\Kigg\Kigg\Source\Kigg.WebApp\bin\Microsoft.Practices.Unity.Configuration.xml
 C:\Kigg\Kigg\Source\Kigg.WebApp\obj\Debug\Kigg.WebApp.csprojResolveAssemblyReference.cache
 C:\Kigg\Kigg\Source\Kigg.WebApp\obj\Debug\Kigg.WebApp.dll
 C:\Kigg\Kigg\Source\Kigg.WebApp\obj\Debug\Kigg.WebApp.pdb
+C:\Kigg\Kigg\Source\Kigg.WebApp\bin\Kigg.WebApp.dll.config

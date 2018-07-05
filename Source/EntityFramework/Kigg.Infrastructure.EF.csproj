@@ -196,7 +196,8 @@
   </Target>
   -->
   <PropertyGroup>
-    <PreBuildEvent>
-    </PreBuildEvent>
+    <PreBuildEvent>"%25windir%25\Microsoft.NET\Framework\v4.0.30319\edmgen.exe" /mode:EntityClassGeneration /incsdl:"$(SolutionDir)SharedFiles\DomainObjects.csdl" /outobjectlayer:"$(ProjectDir)DomainObjects\Generated\Models.cs" /language:CSharp
+
+"%25windir%25\Microsoft.NET\Framework\v4.0.30319\edmgen.exe" /mode:ViewGeneration /incsdl:"$(SolutionDir)SharedFiles\DomainObjects.csdl" /inssdl:"$(SolutionDir)SharedFiles\DomainObjects.SqlServer.ssdl" /inmsl:"$(SolutionDir)SharedFiles\DomainObjects.msl" /outviews:"$(ProjectDir)DomainObjects\Generated\SqlServerViews.cs" /language:CSharp</PreBuildEvent>
   </PropertyGroup>
 </Project>

@@ -10,7 +10,14 @@
         {
             Check.Argument.IsNotEmpty(resolverTypeName, "resolverTypeName");
 
-            _resolverType = Type.GetType(resolverTypeName, true, true);
+            try
+            {
+                _resolverType = Type.GetType(resolverTypeName, true, true);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public DependencyResolverFactory() : this(new ConfigurationManagerWrapper().AppSettings["dependencyResolverTypeName"])

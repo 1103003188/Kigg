@@ -217,9 +217,9 @@
       <Project>{04A61455-9656-4E67-A8D6-9FBA348F0FB3}</Project>
       <Name>Kigg.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Kigg.WebApp\Kigg.WebApp.csproj">
+    <ProjectReference Include="..\Kigg.WebApp\Kigg.Web.csproj">
       <Project>{23eec6ee-a6fb-4077-acdb-1dd8c197f936}</Project>
-      <Name>Kigg.WebApp</Name>
+      <Name>Kigg.Web</Name>
     </ProjectReference>
     <ProjectReference Include="..\Test.Infrastructure\Kigg.Test.Infrastructure.csproj">
       <Project>{880A0F43-4A21-4A6E-BCA7-4094F0FB38AB}</Project>
