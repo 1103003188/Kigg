@@ -71,7 +71,6 @@ C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Kigg.Web.Test.pdb
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\DotNetOpenAuth.dll
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Kigg.Core.dll
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Kigg.Test.Infrastructure.dll
-C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Kigg.WebApp.dll
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Moq.dll
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\System.Web.Mvc.dll
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\xunit.dll
@@ -88,7 +87,6 @@ C:\Kigg\Kigg\Source\Web.Test\bin\Debug\EntityFramework.dll
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Kigg.Core.pdb
-C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Kigg.WebApp.pdb
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Kigg.Test.Infrastructure.pdb
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\DotNetOpenAuth.xml
 C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Moq.xml
@@ -108,3 +106,5 @@ C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Microsoft.Web.Infrastructure.xml
 C:\Kigg\Kigg\Source\Web.Test\obj\Debug\Kigg.Web.Test.csprojResolveAssemblyReference.cache
 C:\Kigg\Kigg\Source\Web.Test\obj\Debug\Kigg.Web.Test.dll
 C:\Kigg\Kigg\Source\Web.Test\obj\Debug\Kigg.Web.Test.pdb
+C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Kigg.Web.dll
+C:\Kigg\Kigg\Source\Web.Test\bin\Debug\Kigg.Web.pdb

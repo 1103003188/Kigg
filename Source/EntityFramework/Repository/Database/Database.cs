@@ -37,10 +37,11 @@
         private IQueryable<StoryComment> _commentDataSource;
 
         public Database() :
-            base (System.Configuration.ConfigurationManager.ConnectionStrings["KiGGDatabase"].ConnectionString, _defaultContainerName)
+            base(System.Configuration.ConfigurationManager.ConnectionStrings["KiGGDatabase"].ConnectionString, _defaultContainerName)
         {
-            
+
         }
+
 
         public Database(string connectionString) :
             base(connectionString, _defaultContainerName)
