@@ -7,7 +7,7 @@ namespace Kigg.Web
     {
         public static void Expire(this HttpCookie cookie)
         {
-            cookie.Expires = DateTime.Now.AddMinutes(-1);
+            cookie.Expires = DateTime.Now.AddMinutes(1);
         }
     }
 }
